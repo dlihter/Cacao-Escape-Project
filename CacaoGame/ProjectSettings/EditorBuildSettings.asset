@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/StartMenu.unity
+    guid: 5412c66b1c863e84eaa4ffb97204f014
+  - enabled: 1
+    path: Assets/_Scenes/CellLevel.unity
+    guid: 54a4481403834734986f499cd20f54c4
+  - enabled: 1
+    path: Assets/_Scenes/LockLevel.unity
+    guid: b03e0a1caabb5c941bbaa34877c39e6e
+  - enabled: 1
+    path: Assets/_Scenes/LoseLock.unity
+    guid: 3a918ea3c156bf64caa099f551990338
+  - enabled: 1
+    path: Assets/_Scenes/MazeLevel.unity
+    guid: 58e28657699a51647acc6fb6753ba3c7
+  - enabled: 1
+    path: Assets/_Scenes/QuitMenu.unity
+    guid: fd5b192f8d8eda547bdb4c1d58ce3b8f
